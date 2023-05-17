@@ -1,0 +1,1 @@
+print("I can do all thing through Christ")
